@@ -1,0 +1,31 @@
+,ICAO,IATA,name,city,country,longitude,latitude,altitude,timezone,Rank,half_year_count
+0,CYYZ,YYZ,Lester B. Pearson International Airport,Toronto,Canada,43.67720032,-79.63059998,569,America/Toronto,30,24463000
+1,EDDF,FRA,Frankfurt am Main Airport,Frankfurt,Germany,50.033333,8.570556,364,Europe/Berlin,15,33644000
+2,EGLL,LHR,London Heathrow Airport,London,United Kingdom,51.4706,-0.461941,83,Europe/London,7,38750000
+3,EHAM,AMS,Amsterdam Airport Schiphol,Amsterdam,Netherlands,52.308601,4.76389,-11,Europe/Amsterdam,14,34537000
+4,LEBL,BCN,Barcelona International Airport,Barcelona,Spain,41.2971,2.07846,12,Europe/Madrid,29,24821000
+5,LEMD,MAD,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,40.471926,-3.56264,1998,Europe/Madrid,23,29284000
+6,LFPG,CDG,Charles de Gaulle International Airport,Paris,France,49.012798,2.55,392,Europe/Paris,10,36339000
+7,OMDB,DXB,Dubai International Airport,Dubai,United Arab Emirates,25.25279999,55.36439896,62,Asia/Dubai,5,41278000
+8,RJTT,HND,Tokyo Haneda International Airport,Tokyo,Japan,35.552299,139.779999,35,Asia/Tokyo,4,41435000
+9,VHHH,HKG,Hong Kong International Airport,Hong Kong,Hong Kong,22.308901,113.915001,28,Asia/Hong_Kong,9,37800000
+10,VIDP,DEL,Indira Gandhi International Airport,Delhi,India,28.5665,77.103104,777,Asia/Calcutta,19,32558857
+11,WIII,CGK,Soekarno-Hatta International Airport,Jakarta,Indonesia,-6.12556982,106.6559982,34,Asia/Jakarta,20,31648597
+12,WMKK,KUL,Kuala Lumpur International Airport,Kuala Lumpur,Malaysia,2.745579958,101.7099991,69,Asia/Kuala_Lumpur,22,30355000
+13,WSSS,SIN,Singapore Changi Airport,Singapore,Singapore,1.35019,103.994003,22,Asia/Singapore,16,33190000
+14,ZBAA,PEK,Beijing Capital International Airport,Beijing,China,40.08010101,116.5849991,116,Asia/Shanghai,2,49242000
+15,ZGGG,CAN,Guangzhou Baiyun International Airport,Guangzhou,China,23.39240074,113.2990036,50,Asia/Shanghai,12,35646000
+16,ZGSZ,SZX,Shenzhen Bao'an International Airport,Shenzhen,China,22.63929939,113.810997,13,Asia/Shanghai,26,25837000
+17,ZUUU,CTU,Chengdu Shuangliu International Airport,Chengdu,China,30.57850075,103.9469986,1625,Asia/Shanghai,25,27340000
+18,ZSPD,PVG,Shanghai Pudong International Airport,Shanghai,China,31.14340019,121.8050003,13,Asia/Shanghai,8,38220000
+19,KSFO,SFO,San Francisco International Airport,San Francisco,United States,37.61899948,-122.375,13,America/Los_Angeles,24,27704000
+20,KLAX,LAX,Los Angeles International Airport,Los Angeles,United States,33.94250107,-118.4079971,125,America/Los_Angeles,3,43049000
+21,KDFW,DFW,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,32.896801,-97.038002,607,America/Chicago,11,36122000
+22,KATL,ATL,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,33.6367,-84.428101,1026,America/New_York,1,54388000
+23,KDEN,DEN,Denver International Airport,Denver,United States,39.86169815,-104.6729965,5431,America/Denver,18,32705000
+24,KJFK,JFK,John F Kennedy International Airport,New York,United States,40.63980103,-73.77890015,13,America/New_York,21,30481000
+25,KORD,ORD,Chicago O'Hare International Airport,Chicago,United States,41.9786,-87.9048,672,America/Chicago,6,39512000
+26,KLAS,LAS,McCarran International Airport,Las Vegas,United States,36.08010101,-115.1520004,2181,America/Los_Angeles,28,25274000
+27,KMCO,MCO,Orlando International Airport,Orlando,United States,28.42939949,-81.30899811,96,America/New_York,27,25800000
+28,VTBS,BKK,Suvarnabhumi Airport,Bangkok,Thailand,13.68109989,100.7470016,5,Asia/Bangkok,17,32760000
+29,RKSI,ICN,Incheon International Airport,Seoul,South Korea,37.46910095,126.4509964,23,Asia/Seoul,13,35547000

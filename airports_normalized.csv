@@ -1,0 +1,31 @@
+,Unnamed: 0,IATA,name,longitude,latitude,altitude,timezone,half_year_count
+0,0,YYZ,Lester B. Pearson International Airport,43.67720032,-79.63059998,569,America/Toronto,24463000
+1,1,FRA,Frankfurt am Main Airport,50.033333,8.570556,364,Europe/Berlin,33644000
+2,2,LHR,London Heathrow Airport,51.4706,-0.461941,83,Europe/London,38750000
+3,3,AMS,Amsterdam Airport Schiphol,52.308601,4.76389,-11,Europe/Amsterdam,34537000
+4,4,BCN,Barcelona International Airport,41.2971,2.0784599999999998,12,Europe/Madrid,24821000
+5,5,MAD,Adolfo Suárez Madrid–Barajas Airport,40.471926,-3.56264,1998,Europe/Madrid,29284000
+6,6,CDG,Charles de Gaulle International Airport,49.012798,2.55,392,Europe/Paris,36339000
+7,7,DXB,Dubai International Airport,25.25279999,55.36439896,62,Asia/Dubai,41278000
+8,8,HND,Tokyo Haneda International Airport,35.552299,139.779999,35,Asia/Tokyo,41435000
+9,9,HKG,Hong Kong International Airport,22.308901000000002,113.915001,28,Asia/Hong_Kong,37800000
+10,10,DEL,Indira Gandhi International Airport,28.5665,77.103104,777,Asia/Calcutta,32558857
+11,11,CGK,Soekarno-Hatta International Airport,-6.12556982,106.65599820000001,34,Asia/Jakarta,31648597
+12,12,KUL,Kuala Lumpur International Airport,2.745579958,101.70999909999999,69,Asia/Kuala_Lumpur,30355000
+13,13,SIN,Singapore Changi Airport,1.35019,103.994003,22,Asia/Singapore,33190000
+14,14,PEK,Beijing Capital International Airport,40.08010101,116.58499909999999,116,Asia/Shanghai,49242000
+15,15,CAN,Guangzhou Baiyun International Airport,23.39240074,113.29900359999999,50,Asia/Shanghai,35646000
+16,16,SZX,Shenzhen Bao'an International Airport,22.63929939,113.810997,13,Asia/Shanghai,25837000
+17,17,CTU,Chengdu Shuangliu International Airport,30.57850075,103.94699859999999,1625,Asia/Shanghai,27340000
+18,18,PVG,Shanghai Pudong International Airport,31.14340019,121.8050003,13,Asia/Shanghai,38220000
+19,19,SFO,San Francisco International Airport,37.61899948,-122.375,13,America/Los_Angeles,27704000
+20,20,LAX,Los Angeles International Airport,33.94250107,-118.40799709999999,125,America/Los_Angeles,43049000
+21,21,DFW,Dallas Fort Worth International Airport,32.896801,-97.038002,607,America/Chicago,36122000
+22,22,ATL,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,1026,America/New_York,54388000
+23,23,DEN,Denver International Airport,39.86169815,-104.6729965,5431,America/Denver,32705000
+24,24,JFK,John F Kennedy International Airport,40.63980103,-73.77890015,13,America/New_York,30481000
+25,25,ORD,Chicago O'Hare International Airport,41.9786,-87.9048,672,America/Chicago,39512000
+26,26,LAS,McCarran International Airport,36.08010101,-115.15200039999999,2181,America/Los_Angeles,25274000
+27,27,MCO,Orlando International Airport,28.42939949,-81.30899811,96,America/New_York,25800000
+28,28,BKK,Suvarnabhumi Airport,13.68109989,100.74700159999999,5,Asia/Bangkok,32760000
+29,29,ICN,Incheon International Airport,37.46910095,126.45099640000001,23,Asia/Seoul,35547000

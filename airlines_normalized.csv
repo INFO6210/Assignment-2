@@ -1,0 +1,101 @@
+,airline_iata,airline_name,country_code
+0,AA,American Airlines,US
+1,DL,Delta Air Lines,US
+2,UA,United Airlines,US
+3,WN,Southwest Airlines Co.,UM
+4,CZ,China Southern Airlines,CN
+5,MU,China Eastern,CN
+6,OO,SkyWest Airlines,UM
+7,CA,Air China Limited,CN
+8,FX,Federal Express,US
+9,FR,Ryanair Ltd.,IE
+10,XE,Expressjet,UM
+11,TK,THY - Turkish Airlines,TR
+12,LH,Lufthansa Cargo,DE
+13,BA,British Airways,GB
+14,EK,Emirates,AE
+15,5X,UPS Airlines,US
+16,U2,Easyjet Airline Company Limited,GB
+17,AF,Air France,FR
+18,B6,JetBlue,US
+19,NH,All Nippon Airways,JP
+20,QR,Qatar Airways,QA
+21,MQ,Envoy Air Inc.,UM
+22,SU,Aeroflot,RU
+23,ZH,Shenzhen Airlines,CN
+24,AC,Air Canada,CA
+25,JJ,TAM Linhas Aereas,BR
+26,JL,Japan Airlines,JP
+27,KE,Korean Air,KR
+28,AS,Alaska Airlines,US
+29,HU,Hainan Airlines,CN
+30,SK,SAS,SE
+31,GA,Garuda,ID
+32,CX,Cathay Pacific,HK
+33,RW,Republic Airlines,US
+34,SV,Saudi Arabian Airlines,SA
+35,AD,Azul Brazilian Airlines,BR
+36,MF,Xiamen Airlines,CN
+37,G3,VRG Linhas Aereas S.A. - Grupo GOL,BR
+38,QK,Jazz Aviation LP,CA
+39,EY,Etihad Airways,AE
+40,LA,Lan Airlines,CL
+41,9E,Endeavor Air,UM
+42,YV,"Mesa Airlines, Inc.",UM
+43,QF,Qantas,AU
+44,JT,Lion Airlines,ID
+45,WS,WestJet,CA
+46,KL,KLM,NL
+47,SQ,SIA Cargo,SG
+48,OH,PSA Airlines,US
+49,AI,Air India,IN
+50,3U,Sichuan Airlines,CN
+51,6E,Interglobe Aviation Ltd. dba Indigo,IN
+52,VY,Vueling,ES
+53,AZ,Alitalia,IT
+54,AV,AVIANCA,CO
+55,VA,Virgin Australia,AU
+56,S5,Shuttle America,UM
+57,SC,Shandong Airlines,CN
+58,9W,Jet Airways,IN
+59,GS,Tianjin Airlines,CN
+60,VN,Vietnam Airlines,VN
+61,CM,COPA Airlines,PA
+62,FM,Shanghai Airlines,CN
+63,AB,Air Berlin,DE
+64,OS,Austrian,AT
+65,NK,Spirit Airlines,UM
+66,OZ,Asiana,KR
+67,CI,China Airlines,TW
+68,G4,Allegiant Air LLC,UM
+69,MH,Malaysia Airlines,MY
+70,AK,AirAsia Berhad dba AirAsia,MY
+71,TG,Thai Airways International,TH
+72,IB,IBERIA,ES
+73,BE,flybe,GB
+74,ET,Ethiopian Airlines,ET
+75,JQ,Jetstar Airways Pty Limited,AU
+76,W6,Wizz Air Hungary Ltd.,HU
+77,ZW,Air Wisconsin Airlines Corporation (AWAC),UM
+78,LX,SWISS,CH
+79,AX,"Trans States Airlines, LLC",US
+80,BR,EVA Air,TW
+81,S7,S7 Airlines,RU
+82,AM,Aeromexico,MX
+83,4O,Interjet,MX
+84,5D,Aerolitoral S.A. de C.V.,MX
+85,JD,Capital Airlines,CN
+86,PC,Pegasus Airlines,TR
+87,UT,UTair,RU
+88,BY,Thomson Airways Limited,GB
+89,CP,Compass Airlines LLC,UM
+90,TP,TAP Portugal,PT
+91,VX,Virgin America,US
+92,Y4,Volaris,MX
+93,4U,Germanwings GmbH,DE
+94,LS,Jet2.com Limited,GB
+95,PR,Philippine Airlines,PH
+96,9C,Spring Airlines Limited Corporation,CN
+97,F9,"Frontier Airlines, Inc.",UM
+98,5J,Cebu Pacific Air,PH
+99,DY,Norwegian Air Shuttle A.S.,NO
